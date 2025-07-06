@@ -190,13 +190,6 @@ We welcome contributions from the research community:
 - Include proper citations and methodology
 - Test all changes locally before submitting
 
-## 📞 Contact & Support
-
-### **Research Team**
-- **Lead Researcher**: [Your Name]
-- **Institution**: [Your Institution]  
-- **Email**: [Your Email]
-
 ### **Getting Help**
 - **Issues**: [Report bugs or request features](https://github.com/yourusername/oklahoma-flood-dashboard/issues)
 - **Discussions**: [Join community discussions](https://github.com/yourusername/oklahoma-flood-dashboard/discussions)
